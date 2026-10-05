@@ -1,2 +1,2 @@
 # scimba-plasma-dev
-This the private repository for the ScimBa Plasma application.
+This is the private repository for the ScimBa Plasma application.
